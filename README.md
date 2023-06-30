@@ -5,7 +5,6 @@ For Patients: With AppointCare, patients can easily find and book appointments w
 
 For Doctors: AppointCare recognizes the importance of a seamless appointment management system for healthcare providers. Doctors can register and create their profiles within the app, showcasing their areas of expertise, qualifications, and professional achievements. By joining the AppointCare network, doctors can expand their patient base and reach a wider audience. Once registered, doctors can manage their schedules efficiently through the app. They have the flexibility to update their availability, block specific time slots, and specify appointment durations. AppointCare's intelligent scheduling algorithm optimizes the doctor's calendar, reducing the likelihood of appointment conflicts and ensuring an organized workflow.<br/>
 
-[Live Demo](https://appointcare.onrender.com/)
 
 # TOOLS & TECHNOLOGY USED
 ⚛️ React.js<br/>
@@ -53,6 +52,9 @@ Patient can book appointment from all the available doctors listed on homepage.<
 Patient will receive notifications from doctor about the status of their appointment.<br/>
 Agents can mark their collection upon collection of food from donor's home.<br/>
 Agents can also view all those appointments which have been booked by them previously.<br/>
+
+# Live Demo
+[AppointCare](https://appointcare.onrender.com/)
 
 # For Testing Purpose
 Use email:- admin@admin || Password:- 12345.<br/>
