@@ -49,7 +49,7 @@ Agents can mark their collection upon collection of food from donor's home.<br/>
 Agents can also view all those appointments which have been booked by them previously.<br/>
 
 # Live Demo
-[AppointCare](https://appointcare.onrender.com/login)
+[AppointCare](https://appointcare.onrender.com/register)
 
 # For Testing Purpose
 Use email:- admin@admin || Password:- 12345.<br/>
