@@ -1,4 +1,4 @@
-# AppointCare-Deploy
+# AppointCare
 AppointCare is a user-friendly web application designed to streamline the process of scheduling appointments with doctors. Whether you're a patient in need of medical assistance or a healthcare professional looking to manage your appointments efficiently, AppointCare is here to simplify the entire experience.<br/>
 
 For Patients: With AppointCare, patients can easily find and book appointments with doctors in their area. The app provides a comprehensive database of healthcare providers, including general practitioners, specialists, and other medical professionals. Users can search for doctors based on their specialization, location and availability ensuring they find the right healthcare provider for their specific needs. Once a suitable doctor is found, AppointCare allows patients to view the doctor's profile, which includes information about their qualifications, experience, and fees per consaltation. This helps patients make an informed decision when selecting a healthcare professional. Once a doctor is chosen, users can book an appointment directly through the app, selecting a convenient date and time slot.<br/>
@@ -54,7 +54,7 @@ Agents can mark their collection upon collection of food from donor's home.<br/>
 Agents can also view all those appointments which have been booked by them previously.<br/>
 
 # Live Demo
-[AppointCare](https://appointcare.onrender.com/)
+[AppointCare](https://appointcare.onrender.com/login)
 
 # For Testing Purpose
 Use email:- admin@admin || Password:- 12345.<br/>
